@@ -1,0 +1,16 @@
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\bin\Debug\net5.0\kodtesta.exe
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\bin\Debug\net5.0\kodtesta.deps.json
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\bin\Debug\net5.0\kodtesta.runtimeconfig.json
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\bin\Debug\net5.0\kodtesta.runtimeconfig.dev.json
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\bin\Debug\net5.0\kodtesta.dll
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\bin\Debug\net5.0\ref\kodtesta.dll
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\bin\Debug\net5.0\kodtesta.pdb
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\obj\Debug\net5.0\kodtesta.csproj.AssemblyReference.cache
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\obj\Debug\net5.0\kodtesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\obj\Debug\net5.0\kodtesta.AssemblyInfoInputs.cache
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\obj\Debug\net5.0\kodtesta.AssemblyInfo.cs
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\obj\Debug\net5.0\kodtesta.csproj.CoreCompileInputs.cache
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\obj\Debug\net5.0\kodtesta.dll
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\obj\Debug\net5.0\ref\kodtesta.dll
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\obj\Debug\net5.0\kodtesta.pdb
+C:\Users\christopher.thomasi\source\repos\kodtesta\kodtesta\obj\Debug\net5.0\kodtesta.genruntimeconfig.cache
